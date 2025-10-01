@@ -1,2 +1,2 @@
-# Ronijamilly-de-Souza-Lima
-Projetos da ReTech
+# Projeto ReTech
+Repositório técnico para os Projetos da ReTech
